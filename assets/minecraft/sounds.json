@@ -1,0 +1,101 @@
+{
+  "game.player.hurt.fall.big": {
+  	"catagory": "player",
+  	"replace": true,
+  	"sounds": [
+  	  "damage/fall1",
+  	  "damage/fall2",
+  	  "damage/fall3",
+  	  "damage/fall4"
+  	]
+  },
+  "game.player.hurt.fall.small": {
+  	"catagory": "player",
+  	"replace": true,
+  	"sounds": [
+  	  "damage/fall1",
+  	  "damage/fall2",
+  	  "damage/fall3",
+  	  "damage/fall4"
+  	]
+  },
+  "game.player.hurt": {
+  	"catagory": "player",
+  	"replace": true,
+  	"sounds": [
+      "damage/hurt1",
+      "damage/hurt2",
+      "damage/hurt3",
+      "damage/hurt4",
+      "damage/hurt5"
+  	]
+  },
+  "game.player.die": {
+  	"catagory": "player",
+  	"replace": true,
+  	"sounds": [
+  	  "damage/die"
+  	]
+  },
+  "random.bow": {
+  	"catagory": "neutral",
+  	"replace": true,
+  	"sounds": [
+  	  "random/bow1",
+  	  "random/bow2"
+  	]
+  },
+  "random.bowhit": {
+    "catagory": "neutral",
+    "replace": true,
+    "sounds": [
+      "random/null"
+    ]
+  },
+  "random.burp": {
+  	"catagory": "player",
+  	"replace": true,
+  	"sounds": [
+  	  "random/burp1",
+  	  "random/burp2",
+  	  "random/burp3"
+  	]
+  },
+  "random.chestclosed": {
+  	"catagory": "block",
+  	"replace": true,
+  	"sounds": [
+  	  "random/door_close"
+  	]
+  },
+  "random.chestopen": {
+  	"catagory": "block",
+  	"replace": true,
+  	"sounds": [
+  	  "random/door_open"
+  	]
+  },
+  "random.door_close": {
+  	"catagory": "block",
+  	"replace": true,
+  	"sounds": [
+  	  "random/door_close"
+  	]
+  },
+  "random.door_open": {
+  	"catagory": "block",
+  	"replace": true,
+  	"sounds": [
+  	  "random/door_open"
+  	]
+  },
+  "random.successful_hit": {
+  	"catagory": "player",
+  	"replace": true,
+  	"sounds": [
+  	 "random/successful_hit1",
+  	 "random/successful_hit2",
+  	 "random/successful_hit3"
+  	]
+  }
+}
